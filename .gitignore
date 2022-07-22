@@ -1,6 +1,6 @@
 .env
 .cache
-BUZZlogs.txt
+Buzzlogs.txt
 .DS_Store
 *.session
 raw_files/
