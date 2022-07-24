@@ -70,7 +70,7 @@ Untuk informasi lebih lanjut tentang BUZZ silahkan kunjungi [BUZZ](https://t.me/
 
 ```console
 buzz@cruviax~ $ git clone https://github.com/justteen/musicalbuzz
-buzz@cruviax~ $ cd buzz
+buzz@cruviax~ $ cd musicalbuzz
 buzz@cruviax~ $ sudo bash setup
 ```
 > Setup akan menginstal setiap persyaratan, nodejs dan paket pip secara otomatis. Setelah instalasi persyaratan berhasil, setup akan meminta Anda untuk memasukkan vars Anda.
